@@ -16,6 +16,7 @@ Inputs: deadline, tasks, difficulty, prizes
   Statistics, tasks completed, tasks finished, record of past tasks  
   Custom items in shop based on user’s input
 	  Difficulty levels example - when task list is finished we increase level
+	  
 Level 1
   +10 coins
   Multiplier - +0.5x per task completed
