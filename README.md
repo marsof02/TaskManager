@@ -19,9 +19,9 @@ Inputs: deadline, tasks, difficulty, prizes
 	  
 Level 1
 
-  +10 coins
-  Multiplier - +0.5x per task completed
-  Min time - 10 minutes
+  	+10 coins
+  	Multiplier - +0.5x per task completed
+  	Min time - 10 minutes
   
 Level 2 - getting to level 2:
 
@@ -49,3 +49,14 @@ Division of Labor
   Task object 
   Reward System 
   Shop 
+  Division of Labor
+Level / Visual Game setup 
+Menu / UI 
+Store object 
+Task System 
+Data Structure 
+Task object 
+Reward System 
+Shop 
+Item, Coveyor Belt Structures
+
