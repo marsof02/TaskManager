@@ -21,6 +21,7 @@ Level 1
   +10 coins
   Multiplier - +0.5x per task completed
   Min time - 10 minutes
+  
 Level 2 - getting to level 2:
   + 50 coins
   Multiplier - +1.0x per task completed
