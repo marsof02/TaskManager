@@ -10,6 +10,8 @@ Track your progress on the tasks you input. Get rewards and experience points fo
 
 Submission for the hackathon’s productivity track, built in 16 hours.
 
+![](/BabyYodas.png)
+
 ### Technology
 - User interface created using Unity
 - Backend logic in C# 
