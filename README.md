@@ -10,7 +10,7 @@ Track your progress on the tasks you input. Get rewards and experience points fo
 
 Submission for the hackathon’s productivity track, built in 16 hours.
 
-<img src="/bb-yodas.png" width="100" height="100">
+<img src="/bb-yodas.png" width="289" height="203">
 
 ### Technology
 - User interface created using Unity
