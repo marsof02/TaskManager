@@ -1,6 +1,7 @@
 # Baby Yoda’s To-Do List
-Project for Bostonhacks 2021
-Minh Le, Sofi Mercado, Katie Rimey, Hayden Rothman
+## Project for Bostonhacks 2021
+
+*Minh Le, Sofi Mercado, Katie Rimey, Hayden Rothman*
 
 Baby Yoda’s To-Do List
 A task-manager video game: a to-do list in video game format
