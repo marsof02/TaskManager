@@ -10,10 +10,12 @@ Track your progress on the tasks you input. Get rewards and experience points fo
 
 Submission for the hackathon’s productivity track, built in 16 hours.
 
+![](https://drive.google.com/file/d/1APxuCK00z2rIzxRCqp7o4vsmuSDe69Mk/view?usp=sharing)
+
 ### Technology
 - User interface created using Unity
 - Backend logic in C# 
 - Pixel drawings for animation 
 - AI for automated movement
 
-✨ Prize for Most Creative Idea, sponsored by Axure ✨
+### ✨ Prize for Most Creative Idea, sponsored by Axure ✨
